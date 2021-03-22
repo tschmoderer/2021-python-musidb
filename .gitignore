@@ -1,6 +1,7 @@
 # black list
 *.db-journal
 .vscode/
+gephi/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
