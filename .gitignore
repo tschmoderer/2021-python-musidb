@@ -2,6 +2,7 @@
 *.db-journal
 .vscode/
 gephi/
+*.gephi
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
